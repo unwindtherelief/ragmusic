@@ -1,0 +1,14 @@
+{
+  "musics": [
+    {
+      "musicId": 1,
+      "musicName": "Ragdarbari",
+      "musicFile": "https://github.com/unwindtherelief/ragmusic/blob/main/ragdarbari.mp3"
+    },
+    {
+      "musicId": 2,
+      "musicName": "Ragbhimbhilasi",
+      "musicFile": "https://github.com/unwindtherelief/ragmusic/blob/main/bhimpilasirag.mp3"
+    }
+  ]
+}
